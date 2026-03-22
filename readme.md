@@ -12,7 +12,7 @@ Penn Treebank (PTB) — journalistic text with ~10k word vocabulary. Numbers are
 
 ## Results
 
-Here are an example generation from the model:
+Here is an example generation from the model:
 
 PROMPT    : the stock market  
 GENERATED : the stock market crash is getting strongly the prime news they 're going  
